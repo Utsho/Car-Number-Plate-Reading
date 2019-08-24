@@ -1,0 +1,7 @@
+5_.png##rejected_segment_number_not_in_range0
+0_.png##can_not_reject
+6_.png##rejected_segment_number_not_in_range5
+2_.png##rejected_segment_number_not_in_range0
+4_.png##rejected_segment_number_not_in_range0
+3_.png##rejected_for_angle
+1_.png##can_not_reject
